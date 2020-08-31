@@ -1,0 +1,29 @@
+body {
+  font-family: 'open sans', sans-serif;
+  font-size: 16px;
+  
+}
+
+table {
+  width:100%;
+  border-collapse: collapse;
+}
+th {
+  text-align:left;
+  background-color:#041f41;
+  color:white;
+  padding:10px;
+}
+ tbody td {
+   padding:5px;
+  border: 1px solid #ccc;
+}
+nav {
+  margin-top: 20px;
+   float: right;
+}
+span {
+  float: right;
+  border:none;
+  color:white
+}
